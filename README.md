@@ -10,5 +10,5 @@
 </p>
 
 #### Credits
-This project originated from the collaborative effort of a team of passionate individuals (including myself) who participated in the HackUPC hackathon (10th edition). Hence, I extend my appreciation to my fellow team members @ValerioCeccarelli, @giumanuz and @LeograndeCode for their dedication, creativity, and hard work during the hackathon, which laid the foundation for this project.
+This project originated from the collaborative effort of a team of passionate individuals (including myself) who participated in the [HackUPC](https://hackupc.com/) hackathon (10th edition). Hence, I extend my appreciation to my fellow team members @ValerioCeccarelli, @giumanuz and @LeograndeCode for their dedication, creativity, and hard work during the hackathon, which laid the foundation for this project.
 
